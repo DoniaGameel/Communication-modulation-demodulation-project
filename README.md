@@ -1,12 +1,12 @@
 # Communication-modulation-demodulation-project
 
-######It is required to modulate three speech signals using the following scheme:
-##s(t)=x1(t)cosω1t
+**It is required to modulate three speech signals using the following scheme:**
+##s(t)=x1(t)cosω1t+x2(t)cosω2t+x3(t)sinω2t
 and then perform synchronous demodulation..
-######1) Obtain the modulated signal. Plot it in time domain. Plot its magnitude spectrum.
-######2) Perform synchronous demodulation to restore the three signals.
-######3) Perform demodulation three times with phase shifts of 10, 30, 90 degrees for both carriers.
-######4) For , perform demodulation two times with a local carrier frequency that is different by 2 Hz and 10 Hz from its carrier frequency.
+**1) Obtain the modulated signal. Plot it in time domain. Plot its magnitude spectrum.**
+**2) Perform synchronous demodulation to restore the three signals.**
+**3) Perform demodulation three times with phase shifts of 10, 30, 90 degrees for both carriers.**
+**4) For , perform demodulation two times with a local carrier frequency that is different by 2 Hz and 10 Hz from its carrier frequency.**
 
 **Results, answers and comments:**
 2-In synchronous demodulation: each signal is restored with half the magnitude of the original 
