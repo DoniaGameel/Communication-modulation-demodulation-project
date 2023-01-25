@@ -26,11 +26,25 @@ and then perform synchronous demodulation..
 **2-_In synchronous demodulation_:
 each signal is restored with half the magnitude of the original signals.**
 
+![My Image](signals_matlab_waves/Modulated1.png)
+
+![My Image](signals_matlab_waves/Modulated2.png)
+
+![My Image](signals_matlab_waves/Modulated3.png)
+
+
 **3- _Phase shift = 10:_**
 
 **-Signal1 =>very little attenuation (making it lower than the original ones)**
 
 **-Signals 2 & 3=> interfere slightly with each other’s**
+
+![My Image](signals_matlab_waves/DeModulatedSignal1_phase10.png)
+
+![My Image](signals_matlab_waves/DeModulatedSignal2_phase10.png)
+
+![My Image](signals_matlab_waves/DeModulatedSignal3_phase10.png)
+
 
  **_Phase shift = 30:_**
  
@@ -38,14 +52,33 @@ each signal is restored with half the magnitude of the original signals.**
  
  **-Signals 2 & 3=> interfere more with each other’s**
  
+![My Image](signals_matlab_waves/DeModulatedSignal1_phase30.png)
+
+![My Image](signals_matlab_waves/DeModulatedSignal2_phase30.png)
+
+![My Image](signals_matlab_waves/DeModulatedSignal3_phase30.png)
+
+ 
 **_Phase shift = 90:_**
 
 **-Signal1 =>completely attenuation (no audio) (making it lower than the original ones.)**
 
 **-Signals 2 & 3=> interchanged where signal 2 is restored when demodulating to restore signal 3 & vice versa.**
+ 
+![My Image](signals_matlab_waves/DeModulatedSignal1_phase90.png)
+
+![My Image](signals_matlab_waves/DeModulatedSignal2_phase90.png)
+
+![My Image](signals_matlab_waves/DeModulatedSignal3_phase90.png)
+
 
 **4-_frequency shift_ makes attenuation and distortion of the output signal
 In case of 10 => attenuation and distortion of the signal are more than in case of 2**
+
+![My Image](signals_matlab_waves/DeModulatedSignal1_freq2.png)
+
+![My Image](signals_matlab_waves/DeModulatedSignal1_freq10.png)
+
 
 **In order to demodulate the received signal at the receiver we use a synchronous carrier same as modulating carrier.**
 
