@@ -14,6 +14,7 @@ and then perform synchronous demodulation..
 
 **4) For , perform demodulation two times with a local carrier frequency that is different by 2 Hz and 10 Hz from its carrier frequency.**
 
+![My Image](signals_matlab_waves/OriginalSignal1.png)
 
 ###### Results, answers and comments:
 
