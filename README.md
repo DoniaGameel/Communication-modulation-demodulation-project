@@ -5,6 +5,7 @@
 ## s(t)=x1(t)cosω<sub>1</sub>t+x2(t)cosω<sub>2</sub>t+x3(t)sinω<sub>2</sub>t
 
 and then perform synchronous demodulation..
+
 **1) Obtain the modulated signal. Plot it in time domain. Plot its magnitude spectrum.**
 
 **2) Perform synchronous demodulation to restore the three signals.**
@@ -19,6 +20,7 @@ and then perform synchronous demodulation..
 each signal is restored with half the magnitude of the original signals.
 
 3- Phase shift = 10:
+
 -Signal1 =>very little attenuation (making it lower than the original ones.)
 -Signals 2 & 3=> interfere slightly with each other’s
  Phase shift = 30:
