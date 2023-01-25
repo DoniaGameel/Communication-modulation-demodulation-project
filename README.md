@@ -1,7 +1,8 @@
 # Communication-modulation-demodulation-project
 
 **It is required to modulate three speech signals using the following scheme:**
-##s(t)=x1(t)cosω1t+x2(t)cosω2t+x3(t)sinω2t
+
+##s(t)=x1(t)cosω<sub>1</sub>t+x2(t)cosω<sub>2</sub>t+x3(t)sinω<sub>2</sub>t
 and then perform synchronous demodulation..
 **1) Obtain the modulated signal. Plot it in time domain. Plot its magnitude spectrum.**
 **2) Perform synchronous demodulation to restore the three signals.**
