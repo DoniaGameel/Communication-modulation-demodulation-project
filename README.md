@@ -16,6 +16,11 @@ and then perform synchronous demodulation..
 
 ![My Image](signals_matlab_waves/OriginalSignal1.png)
 
+![My Image](signals_matlab_waves/OriginalSignal2.png)
+
+![My Image](signals_matlab_waves/OriginalSignal3.png)
+
+
 ###### Results, answers and comments:
 
 **2-_In synchronous demodulation_:
