@@ -42,7 +42,10 @@ Phase shift = 90:
 In case of 10 => attenuation and distortion of the signal are more than in case of 2
 
 **In order to demodulate the received signal at the receiver we use a synchronous carrier same as modulating carrier.**
+
 **Using a synchronous carrier may cause attenuation or noise to the received signal if the local carrier in the receiver is not synchronized with the received signal carrier.**
+
 **Phase error may cause attenuation of the output signal without causing distortion as long as it is constant. Attenuation increases as phase error increases.**
+
 **Sin and cos signals with the same fc interfere together in the case of phase shift. The interference between them increase when phase shift increase. When phase shift reaches 90, they are completely interchanged.**
 **Frequency shift causes attenuation and distortion of the output signal**
